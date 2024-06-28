@@ -50,7 +50,6 @@ A MERN application for basic tasks management.
 - Node.js
 - Express.js
 - React
-- Redux
 - Mongodb
 
 ## Dependencies
